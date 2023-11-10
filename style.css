@@ -48,7 +48,7 @@ h1.username {
     typing 4.3s steps(20, end) alternate;
     font-size: 1rem;
     width: 0;
-    animation-iteration-count: 4;
+    animation-iteration-count: infinite;
   }
 
   @keyframes typing {
