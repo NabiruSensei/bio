@@ -106,7 +106,7 @@ div.links:hover {
 }
 
 a.links {
-    font-size: 1.3rem;
+    font-size: 1.81rem;
     font-weight: bolder;
     font-family: monospace, sans-serif;
     text-decoration: none;
@@ -124,7 +124,7 @@ div.endpart {
 /* Laptops, pcs stuff */
 /* Laptops, pcs stuff */
 
-@media only screen and (768px <= width <= 100000px) {
+@media only screen and (768px <= width <= 2100px) {
     
     body {
     background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);
@@ -171,4 +171,20 @@ div.endpart {
         transition-duration: 0.25s;
     }
 }
+
+
+@media only screen and (2100px <= width <= 30000px) {
+
+    a.links {
+        font-size: 2.7rem;
+        font-weight: bolder;
+        font-family: monospace, sans-serif;
+        text-decoration: none;
+        color: black;
+    }
+
+
+}
+
+
 
