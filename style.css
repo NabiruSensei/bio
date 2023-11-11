@@ -50,7 +50,7 @@ h1.username {
     font-size: 1rem;
     width: 0;
     animation-iteration-count: 1;
-    animation-delay: 1s;
+    animation-delay: 1.5s;
   }
 
   @keyframes typing {
