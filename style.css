@@ -45,7 +45,7 @@ body {
   
   @keyframes rotate {
     to {
-      transform: rotate(2500deg);
+      transform: rotate(3000deg);
     }
   }
   
