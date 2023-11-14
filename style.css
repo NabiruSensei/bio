@@ -229,6 +229,19 @@ h1.username {
     color: #ffffff;
   }
 
+  h4.socialnamebro {
+    font-size: 3vh;
+    font-family: 'Montserrat', sans-serif;
+    color: #222;
+    margin-left: 4vw;
+}
+
+
+img.socialsiconspics {
+    height: 4.5vh;
+    margin-right: 4vw;
+}
+
 }
 
 @media screen and (0px <= width <= 400px) {
@@ -276,4 +289,17 @@ h1.username {
         color: #ffffff;
       }
     
+      h4.socialnamebro {
+        font-size: 3vh;
+        font-family: 'Montserrat', sans-serif;
+        color: #222;
+        margin-left: 5vw;
+    }
+    
+    
+    img.socialsiconspics {
+        height: 4.5vh;
+        margin-right: 5vw;
+    }
+
     }
