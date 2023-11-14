@@ -5,7 +5,6 @@ body {
     -moz-animation: color 9.5s ease-in-out infinite;
     -webkit-animation: color 9.5s ease-in-out infinite;
     margin: 0;
-    font-family: Arial, sans-serif;
     transition: background-color 0.3s, color 0.3s; /* Smooth transitions for background color and text color */
 }
 
